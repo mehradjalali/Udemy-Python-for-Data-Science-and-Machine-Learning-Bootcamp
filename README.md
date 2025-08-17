@@ -1,7 +1,7 @@
 # Lending Club Loan Default Prediction – Udemy Bootcamp Project
 
 This repository contains my solution for one of the neural network projects in the  
-*[*[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)** on Udemy by Jose Portilla.
+**[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)** on Udemy by Jose Portilla.
 
 The project focuses on building a deep learning model using **Keras**/**TensorFlow** to predict whether a Lending Club loan will be fully paid back or charged off, given customer and loan application data.
 
