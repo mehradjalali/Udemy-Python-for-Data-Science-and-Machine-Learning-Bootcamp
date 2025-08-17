@@ -34,9 +34,9 @@ The notebook performs:
 |------------|-------|------------|-------|
 | Dense | 78 | ReLU | Input layer |
 | Dropout | 0.2 | — | Regularization |
-| Dense | 39 | ReLU | Hidden layer |
+| Dense | 32 | ReLU | Hidden layer |
 | Dropout | 0.2 | — | Regularization |
-| Dense | 19 | ReLU | Hidden layer |
+| Dense | 32 | ReLU | Hidden layer |
 | Dropout | 0.2 | — | Regularization |
 | Dense | 1  | Sigmoid | Output layer for binary classification |
 
